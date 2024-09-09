@@ -1,4 +1,6 @@
-## Hi there 👋
+Post Doctoral Researcher
+Robotics and Autonomous Systems Lab
+Vanderbilt University
 
 <!--
 **AWatk/AWatk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
